@@ -66,12 +66,10 @@ Alongside my web development expertise, I am currently growing in the field of *
 
 ---
 
-## 📊 GitHub Analytics
-![Nada's GitHub stats](https://github-readme-stats.vercel.app/api?username=nada-alaa&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nada-alaa&layout=compact&theme=tokyonight)  
+
 
 ---
 
 ## 🤝 Connect with Me
-- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/nada-alaa-34676a204/))  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/nada-alaa-34676a204/])  
 - 📧 **nada56alaa@gmail.com**  

@@ -81,17 +81,7 @@ Currently a **SOC Analyst Trainee**, working on **Threat Detection, Network Secu
 - 📜 JavaScript & React – Meta/Coursera  
 - ☁️ Cloud Fundamentals – AWS & Azure  
 
----
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nada3laa&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nada3laa&theme=radical" height="160"/>
-</p>
-
-
-
----
 
 ## 🌐 Connect with Me
 <p align="center">
